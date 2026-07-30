@@ -87,6 +87,7 @@ export type {
     ForegroundSessionInfo,
     GetAuthStatusResponse,
     GetStatusResponse,
+    GitHubMcpToolConfig,
     GitHubTelemetryNotification,
     GitHubTelemetryEvent,
     GitHubTelemetryClientInfo,
